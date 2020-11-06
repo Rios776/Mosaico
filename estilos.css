@@ -1,0 +1,29 @@
+#container {width:500px;
+    height: 900px;
+    margin: 40px auto;
+    position: relative;
+    border-radius: 100px;
+    border:10px dotted black;
+    background-color: rgba(245, 245, 220, 0.767);
+    padding: 20px;
+    font-family:'Lobster-Regular';
+    top: 190px;
+    left: 540px;
+    text-align: center;
+    font-size: 3em;
+
+}
+body {
+    background-image: url('Imagenes/mosaico.png');
+    width: 1400px;
+    height: 1400px;
+    background-size: 20%;
+
+
+}
+@font-face {
+    font-family:'Lobster-Regular';
+    src: url(fuente/Lobster-Regular.ttf);
+}
+#titulo {color: black;}
+#parrafo {color: black}
